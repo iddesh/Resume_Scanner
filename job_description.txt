@@ -1,0 +1,17 @@
+We are looking for a Software Engineering Intern with strong foundations in Python and Machine Learning.
+
+Requirements:
+- Good knowledge of Python programming
+- Familiarity with Machine Learning and Deep Learning concepts
+- Experience with data preprocessing and feature engineering
+- Understanding of NLP techniques such as TF-IDF and cosine similarity
+- Basic knowledge of cloud platforms like AWS or GCP
+- Experience using Git and GitHub
+- Ability to work with APIs and JSON data
+- Good problem-solving and communication skills
+
+Responsibilities:
+- Build and optimize ML models
+- Work on NLP-based projects
+- Collaborate with the development team
+- Document code and workflows

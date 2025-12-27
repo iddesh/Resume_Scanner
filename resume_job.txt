@@ -1,0 +1,30 @@
+Kashi
+Email: kashi@example.com | Phone: +91-XXXXXXXXXX
+
+Objective:
+Aspiring Software Engineer seeking an internship to apply my skills in Python, AI, and full stack development.
+
+Skills:
+- Programming: Python, JavaScript, SQL
+- Machine Learning: Supervised learning, model evaluation, feature engineering
+- Deep Learning: CNNs, transfer learning
+- NLP: Text preprocessing, TF-IDF, cosine similarity
+- Web: HTML, CSS, Streamlit, REST APIs
+- Tools: Git, GitHub, Docker
+- Cloud: Basics of AWS
+
+Projects:
+- Resume Scanner using NLP with TF-IDF and cosine similarity
+- Face Detection and Recognition using YOLOv8 and FaceNet
+- Automated Book Publication Workflow using AI agents and vector databases
+- Aline: Online Queue Management System (Full Stack App)
+
+Experience:
+- PR Secretary, College Student Body
+- Technical Content Writer and Blogger
+
+Education:
+B.Tech in Computer Science Engineering
+
+Strengths:
+Quick learner, strong problem-solving ability, excellent communication skills

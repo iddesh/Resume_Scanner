@@ -21,5 +21,3 @@ A simple Python project that uses Natural Language Processing (NLP) to compare a
 - Regular Expressions (re)
 
 ---
-
-## 📂 Project Structure
